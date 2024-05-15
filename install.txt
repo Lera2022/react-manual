@@ -1,0 +1,4 @@
+npx create-react-app myapp
+cd myapp
+npm start
+npm install node-sass
